@@ -1,0 +1,7 @@
+# Файл со списком URL для скачивания серий
+# Добавляйте ссылки по одной на строку
+# Программа автоматически нормализует URL и начинает скачивание с m3u80.ts
+
+# Серия 1
+https://mosprx2.macdonaldscdn.ru/zxc2/shiguchi/51678/11/Studio%20Band/2160/m3u81.ts?uk=0687216808839802
+https://mosprx4.macdonaldscdn.ru/zxc2/shiguchi/51678/12/Studio%20Band/2160/m3u81.ts?uk=1832212887070061
